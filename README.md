@@ -6,13 +6,13 @@ The GUI includes functionality for setting volts per division and time per divis
 
 You will have to update the SIGLENT_SCOPE_ID in the utils file to match the USB address of your own machine (which can be found via the pyvisa resource manager)
 
-The GUI lets you know when the scope is disconnected:
+The GUI lets you know when the scope is disconnected:  
 ![no_scope](https://github.com/sam-olson/sds1104xe-gui/blob/master/figs/no_scope.png)
 
 
-And when you're connected:
+And when you're connected:  
 ![yes_scope](https://github.com/sam-olson/sds1104xe-gui/blob/master/figs/yes_scope.png)
 
 
-An example of the plotting with FFT of a standard sinusoidal wave:
+An example of the plotting with FFT of a standard sinusoidal wave:  
 ![wave](https://github.com/sam-olson/sds1104xe-gui/blob/master/figs/example_plot.png)
