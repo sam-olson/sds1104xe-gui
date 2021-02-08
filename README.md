@@ -9,8 +9,10 @@ You will have to update the SIGLENT_SCOPE_ID in the utils file to match the USB 
 The GUI lets you know when the scope is disconnected:
 ![no_scope](https://github.com/sam-olson/sds1104xe-gui/blob/master/figs/no_scope.png)
 
+
 And when you're connected:
 ![yes_scope](https://github.com/sam-olson/sds1104xe-gui/blob/master/figs/yes_scope.png)
+
 
 An example of the plotting with FFT of a standard sinusoidal wave:
 ![wave](https://github.com/sam-olson/sds1104xe-gui/blob/master/figs/example_plot.png)
